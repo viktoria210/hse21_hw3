@@ -77,3 +77,10 @@
 ![наиболее сильно изменили экспрессию](https://user-images.githubusercontent.com/60792064/144670039-db30e582-7375-4dde-a55a-08ba771d0f37.png)
 
 ### Несколько генов, которые наиболее значимо поменяли свою экспрессию
+**Note:** В моей таблице ALL.counts в начале идут столбцы r1, r2, r3 - reprogramming столбцы, а за ними контрольные - c1, c2, c3. Поэтому на графиках генов, которые наиболее сильно изменили экспрессию, вначале идут значения для перепрограммированных генов, а зачем для контрольных.
+
+![11](https://user-images.githubusercontent.com/60792064/144671820-36d775c9-ed29-4536-962e-8ac40fbb41a9.png)
+
+![22](https://user-images.githubusercontent.com/60792064/144671844-0dee697e-09cd-4b2d-bd9f-6711589caefe.png)
+
+![33](https://user-images.githubusercontent.com/60792064/144671860-65fef021-29fe-439e-ade1-60fd1899d7fd.png)
