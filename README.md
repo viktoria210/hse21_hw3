@@ -25,3 +25,13 @@
 ![fastqc_sequence_duplication_levels_plot](https://user-images.githubusercontent.com/60792064/144526519-2d997172-08a1-43c0-a0b8-49c0298e41e1.png)
 
 ![fastqc_status_check_heatmap](https://user-images.githubusercontent.com/60792064/144526567-6fcfc0b5-1942-40fe-b6c8-04d27823db2b.png)
+
+## Таблица со статистикой по каждому из 6-ти образцов
+
+| ID образца | Тип образца |  Общее кол-во     | Кол-во и процент чтений,            |  Кол-во и процент уникально   |Общее кол-во чтений,   |
+|            |             | исходных чтений   | которые были успешно                |  откартированных чтений       |которые попали на гены |                
+|            |             |                   | откартированы на геном              |                               |                       |
+|            |             |                   | (уникально)      |(не уникально)    |                               |                       |
+|   :---:    |    :---:    |      :---:        |      :---:       |  :---:           |           :---:               |        :---:          |
+| git status | git status  | git status        | git status       |                  | git status                    |                       |
+| git diff   | git diff    | git diff          | git diff         |                  | git diff                      |                       |
