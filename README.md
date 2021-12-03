@@ -5,6 +5,7 @@
 ## Ссылки на google colab ноутбуки
 
 Часть1: [python](https://colab.research.google.com/drive/1mrw_bp7FJ1vmOPdXt5bG8Dxe_JSfH8Ay?usp=sharing)
+
 Часть2: [R](https://colab.research.google.com/drive/1Sd6-s8vm1rgsqc0H5rM8U2LqRxNamg-y?usp=sharing)
 
 ## Проверка качества чтений: сравнительная статистика из MultiQC
